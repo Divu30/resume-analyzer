@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Intelligent Resume Analyzer
 
 A desktop application that compares resumes against a Job Description (JD)
@@ -94,3 +95,6 @@ The app gracefully handles: empty JD/resume text, unreadable/corrupt
 files, unsupported file types, empty resume folders, and files that fail
 to parse (they're skipped with a summary shown to the user instead of
 crashing the whole batch).
+=======
+# resume-analyzer
+>>>>>>> b04092ab1b8544708a78e7944dbb2be88bc9be45
