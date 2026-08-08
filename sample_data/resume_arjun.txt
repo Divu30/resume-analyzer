@@ -1,0 +1,19 @@
+Arjun Mehta
+arjun.mehta@email.com | +91 9876543210
+
+Summary:
+Backend developer with 4 years of experience building web applications
+using Python and Django. Bachelor of Technology in Computer Science.
+
+Skills:
+Python, Django, REST API, SQL, MySQL, Git, Docker, AWS, Agile, Scrum,
+pytest, communication, teamwork
+
+Experience:
+Software Engineer - TechCorp (2021 - Present)
+- Built REST APIs using Django and deployed on AWS
+- Wrote unit tests using pytest
+- Worked in an Agile/Scrum team
+
+Education:
+Bachelor of Technology, Computer Science, 2020

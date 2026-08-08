@@ -1,0 +1,17 @@
+Priya Sharma
+priya.sharma@email.com | 98765-11223
+
+Summary:
+Frontend developer with 1 year of experience in building user interfaces
+using JavaScript and React. Diploma in Web Design.
+
+Skills:
+JavaScript, React, HTML, CSS, Figma, communication
+
+Experience:
+Junior Frontend Developer - WebStudio (2023 - Present)
+- Built responsive UI components using React
+- Collaborated with designers using Figma
+
+Education:
+Diploma in Web Design, 2022
