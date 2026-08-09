@@ -98,3 +98,7 @@ crashing the whole batch).
 =======
 # resume-analyzer
 >>>>>>> b04092ab1b8544708a78e7944dbb2be88bc9be45
+
+## Project Demo Video
+
+[Watch the Project Demo Video]( https://drive.google.com/file/d/1ySEVspasbLmmWUdx4Y69h-3RGkqrEp6Z/view?usp=drive_link )
